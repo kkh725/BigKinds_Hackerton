@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="pageMargin">16dp</dimen>
+    <dimen name="pageWidth">16dp</dimen>
+</resources>
